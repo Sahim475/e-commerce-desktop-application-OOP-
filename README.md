@@ -1,5 +1,6 @@
 # Object-Oriented-Programming (Computer Accessories Sop)
-e-commerce desktop application using Java
+e-commerce desktop application using Java.
+
 Using object oriented methodology, user validation and text files to store data I programmed an 'online computer accesory shop' application,
 which has been implemented using Java SWING (GUI).
 
